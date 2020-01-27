@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\PlatziWebApp\\PlatziWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\WebAppPlatzi\\PlatziWebApp\\PlatziWebApp.csproj",
       "projectName": "PlatziWebApp",
-      "projectPath": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\PlatziWebApp\\PlatziWebApp.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\WebAppPlatzi\\PlatziWebApp\\PlatziWebApp.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\PlatziWebApp\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\Cursos\\Platzi\\Azure\\WebAppPlatzi\\PlatziWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
